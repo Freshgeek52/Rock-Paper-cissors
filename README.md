@@ -1,2 +1,4 @@
 # Rock-Paper-cissors
-This is a simple pratice of javascript with the Rock Paper Scissors game
+This is a simple project using javascript for Rock Paper Scissors game.
+
+
